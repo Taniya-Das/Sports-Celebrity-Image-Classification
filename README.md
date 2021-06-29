@@ -21,5 +21,8 @@ For this project, I am downloading a small dataset from here: https://github.com
  
 *  Training Model for Classification
    SVM, Logistic Regression and Random Forest are used for classification. GridSearchCV is used for hyperparameter tuning.
+   
+   
+Reference: https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ
     
    
