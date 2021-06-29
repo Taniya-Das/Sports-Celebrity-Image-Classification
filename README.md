@@ -1,4 +1,4 @@
-# Sports-Celebrity-Image-Classification
+# Sports Celebrity Image Classification
 
 ---
 
